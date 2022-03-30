@@ -1,7 +1,6 @@
 com.cs546.backend
 com.cs546.backend.AI
 com.cs546.backend.AI.actions
-com.cs546.backend.components
 com.cs546.backend.core
 com.cs546.backend.core.city
 com.cs546.backend.core.components
@@ -11,7 +10,7 @@ com.cs546.backend.core.constants
 com.cs546.backend.core.demo
 com.cs546.backend.core.evaluators
 com.cs546.backend.core.exceptions
+com.cs546.backend.core.externalInfluences
 com.cs546.backend.core.simulators
 com.cs546.backend.core.utility
 com.cs546.backend.frontend_api
-com.cs546.backend.simulators.traffic
